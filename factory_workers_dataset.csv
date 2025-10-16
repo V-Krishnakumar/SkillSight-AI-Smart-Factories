@@ -1,0 +1,101 @@
+worker_id,name,years_experience,preferred_shift,task_completion_time_avg,learning_agility,recent_accuracy_avg,certifications,training_status,skill_engine_assembly,skill_painting_finishing,skill_ev_battery_assembly,skill_ckd_kitting,skill_quality_inspection,task_complexity,performance_score,suitability_score,assigned_task,current_assignment_status,rating_by_manager,skill_match_percent,absence_rate_percent,last_training_date,xp_points
+W001,Meena Pillai,4.1,Night,83.2,2.88,0.63,1,In Testing,4.68,4.05,4.52,3.87,3.91,3,0.55,0.78,CKD Kit Packing / Kitting,Pending,5,80.7,2.2,2024-07-14,1163
+W002,Gowri Kumar,9.5,Night,91.0,4.43,0.64,3,Certified,2.39,2.26,4.73,3.01,4.94,2,0.68,0.84,Quality Inspection,Completed,3,86.0,3.0,2024-09-25,1094
+W003,Meena Rao,7.5,Morning,31.5,4.43,0.61,4,Certified,2.99,2.42,2.37,4.48,4.71,2,0.66,0.83,Quality Inspection,Under Review,4,93.5,10.5,2024-02-18,2805
+W004,Karthik Singh,6.2,Morning,76.1,4.6,0.64,4,In Testing,2.96,2.01,2.71,3.09,3.94,1,0.74,0.87,CKD Kit Packing / Kitting,Pending,2,91.2,4.9,2024-05-09,3880
+W005,Devi Kumar,2.0,Evening,50.4,4.74,0.87,4,Needs Improvement,2.28,2.35,2.5,2.1,4.08,3,0.74,0.87,CKD Kit Packing / Kitting,Pending,2,83.4,9.5,2024-01-05,2133
+W006,Anand Rao,2.0,Morning,88.1,3.53,0.63,4,Needs Improvement,3.44,3.42,2.56,4.49,2.15,3,0.58,0.79,CKD Kit Packing / Kitting,Pending,3,95.9,7.9,2024-01-27,3383
+W007,Mohan Pillai,1.1,Night,45.7,3.5,0.73,4,In Testing,4.06,3.82,4.51,3.04,4.01,5,0.5,0.75,Painting & Finishing,Completed,5,86.7,11.0,2024-06-08,1821
+W008,Geetha Iyer,8.7,Night,92.2,4.39,0.94,2,In Testing,3.53,4.38,3.0,4.32,2.13,5,0.65,0.82,CKD Kit Packing / Kitting,Completed,1,86.2,14.9,2024-05-28,1237
+W009,Geetha Iyer,6.2,Morning,64.8,3.95,0.61,3,In Testing,2.47,2.32,2.93,3.09,3.76,1,0.7,0.85,EV Battery Pack Assembly,Completed,3,71.0,14.3,2024-09-20,3428
+W010,Kumar Naidu,7.2,Night,114.3,4.11,0.93,4,In Testing,3.13,4.55,2.68,4.58,5.0,1,0.87,0.94,Engine Assembly,Completed,3,99.6,10.4,2024-08-17,4507
+W011,Nandha Shetty,0.7,Night,42.4,4.39,0.71,3,In Testing,2.01,4.24,3.82,2.66,3.67,4,0.59,0.8,CKD Kit Packing / Kitting,Under Review,4,73.7,16.4,2024-07-18,3946
+W012,Suresh Pillai,9.7,Morning,60.7,4.67,0.65,2,Needs Improvement,4.6,3.23,3.14,4.92,3.42,5,0.51,0.76,Engine Assembly,Under Review,2,76.9,8.6,2024-02-19,3530
+W013,Geetha Menon,8.4,Morning,40.2,3.01,0.88,2,Needs Improvement,2.25,4.8,4.23,4.34,2.94,2,0.74,0.87,Painting & Finishing,Completed,3,71.6,17.9,2024-03-07,2960
+W014,Karthik Shetty,2.5,Night,113.2,3.13,0.85,3,In Testing,3.79,4.97,2.62,2.34,2.36,3,0.67,0.84,Engine Assembly,Under Review,3,89.2,1.4,2024-10-26,3949
+W015,Nandha Patel,2.2,Night,109.0,2.28,0.95,0,Certified,4.96,2.62,4.36,3.7,4.19,1,0.81,0.9,Painting & Finishing,Pending,5,76.7,19.1,2024-02-27,2048
+W016,Raj Das,2.2,Night,53.2,3.73,0.89,1,In Testing,3.61,3.14,3.81,4.96,2.58,3,0.71,0.86,EV Battery Pack Assembly,Pending,5,75.4,13.1,2024-09-15,2676
+W017,Deepa Patel,3.4,Evening,89.4,2.11,0.92,0,Certified,4.77,4.78,2.34,3.41,2.35,3,0.66,0.83,Painting & Finishing,Pending,1,72.7,7.6,2024-05-09,4188
+W018,Arun Rao,5.5,Evening,103.5,3.4,0.71,0,In Testing,2.71,4.16,3.24,2.55,3.27,4,0.55,0.78,Painting & Finishing,Completed,4,73.1,3.9,2024-08-02,3529
+W019,Suresh Naidu,4.6,Evening,80.0,3.63,0.67,0,In Testing,4.28,2.14,4.59,3.45,4.39,5,0.48,0.74,Quality Inspection,Pending,1,87.5,9.6,2024-06-20,4463
+W020,Arun Kumar,3.3,Morning,77.7,2.86,0.9,4,Needs Improvement,3.59,4.34,4.77,3.54,4.24,1,0.8,0.9,CKD Kit Packing / Kitting,Under Review,5,90.6,3.9,2024-09-14,3964
+W021,Ramesh Das,6.3,Evening,51.8,3.77,0.92,2,Certified,4.16,4.48,3.4,4.23,2.16,3,0.73,0.86,CKD Kit Packing / Kitting,Completed,2,81.9,3.3,2024-04-11,4041
+W022,Gowri Singh,1.8,Morning,38.4,2.09,1.0,0,Certified,2.19,4.25,3.44,4.1,3.37,1,0.82,0.91,EV Battery Pack Assembly,Under Review,5,84.4,12.3,2024-07-27,1963
+W023,Geetha Pillai,3.3,Morning,110.7,2.11,0.77,2,Needs Improvement,2.44,4.4,4.76,3.21,3.57,2,0.65,0.82,EV Battery Pack Assembly,Pending,4,90.6,10.5,2024-10-17,1536
+W024,Priya Rao,4.0,Evening,111.0,4.47,0.75,3,Needs Improvement,2.4,4.48,3.76,2.65,3.93,4,0.61,0.8,CKD Kit Packing / Kitting,Pending,5,70.5,13.4,2024-10-12,4150
+W025,Gowri Das,4.8,Evening,87.0,3.08,0.91,1,Needs Improvement,4.06,2.56,2.1,3.94,3.95,2,0.76,0.88,Quality Inspection,Pending,4,79.7,18.6,2024-04-25,2603
+W026,Lakshmi Shetty,8.0,Evening,60.5,2.38,0.74,3,Needs Improvement,4.53,2.71,4.74,3.27,3.09,1,0.71,0.86,CKD Kit Packing / Kitting,Completed,4,99.2,10.6,2024-09-20,4244
+W027,Suresh Menon,2.4,Night,61.4,3.57,0.97,3,Certified,4.25,3.9,2.74,2.4,3.68,1,0.87,0.94,Quality Inspection,Under Review,4,87.4,11.6,2024-05-29,2979
+W028,Raj Shetty,5.4,Evening,95.3,4.31,0.94,4,Certified,2.09,4.72,3.73,4.7,3.44,5,0.64,0.82,EV Battery Pack Assembly,Completed,4,77.6,1.8,2024-10-26,4083
+W029,Kumar Singh,6.1,Night,110.7,2.65,0.77,1,In Testing,4.6,2.95,2.5,4.07,4.65,3,0.61,0.8,Engine Assembly,Completed,4,85.7,14.4,2024-02-05,4871
+W030,Devi Das,0.9,Morning,109.8,3.87,0.9,3,In Testing,3.06,3.76,2.1,4.05,3.59,3,0.72,0.86,EV Battery Pack Assembly,Pending,2,80.3,8.0,2024-10-13,1127
+W031,Lakshmi Naidu,6.3,Night,100.2,2.26,0.9,3,Needs Improvement,3.19,4.05,2.93,4.47,3.32,2,0.72,0.86,EV Battery Pack Assembly,Completed,1,86.0,19.5,2024-07-26,4679
+W032,Vishnu Patel,2.1,Evening,87.8,2.16,0.64,1,Needs Improvement,2.31,3.36,4.34,3.59,3.21,4,0.47,0.74,Painting & Finishing,Completed,3,73.8,16.5,2024-04-15,1091
+W033,Vishnu Singh,1.1,Morning,37.6,3.59,0.96,1,Needs Improvement,4.21,4.14,2.83,4.45,3.72,3,0.74,0.87,Painting & Finishing,Pending,1,74.0,10.4,2024-06-06,4724
+W034,Lakshmi Patel,9.5,Morning,44.5,3.62,0.8,3,In Testing,2.55,4.7,2.66,3.49,4.41,5,0.54,0.77,Painting & Finishing,Completed,4,74.3,2.5,2024-04-30,1542
+W035,Suresh Kumar,9.7,Morning,110.9,3.91,0.93,1,In Testing,3.69,3.87,2.64,2.2,3.62,2,0.8,0.9,Painting & Finishing,Pending,2,98.2,17.2,2024-02-24,1845
+W036,Kumar Pillai,8.2,Night,84.6,4.18,0.73,3,In Testing,4.52,3.62,3.55,3.22,3.98,2,0.71,0.86,Quality Inspection,Pending,5,92.0,16.0,2024-01-12,4603
+W037,Gowri Kumar,3.4,Evening,30.8,4.93,0.96,3,In Testing,2.27,3.32,4.93,3.49,4.21,5,0.68,0.84,CKD Kit Packing / Kitting,Pending,2,74.9,3.7,2024-05-24,2681
+W038,Lakshmi Iyer,1.4,Morning,39.1,3.55,0.76,4,In Testing,3.61,3.73,3.38,4.16,3.56,4,0.58,0.79,Engine Assembly,Pending,4,75.7,5.9,2024-05-15,4036
+W039,Anand Naidu,7.0,Morning,89.7,2.97,0.6,0,In Testing,2.7,3.07,3.67,2.32,3.28,5,0.42,0.71,EV Battery Pack Assembly,Completed,2,91.9,15.9,2024-01-03,2851
+W040,Anand Naidu,4.7,Morning,30.5,4.39,0.96,3,In Testing,3.03,3.17,4.58,2.42,4.63,4,0.72,0.86,Quality Inspection,Pending,2,74.7,3.7,2024-05-23,3494
+W041,Meena Patel,1.7,Night,44.5,2.81,0.64,2,Needs Improvement,3.42,3.6,3.61,2.79,3.25,5,0.43,0.72,Engine Assembly,Pending,4,77.0,18.4,2024-01-30,1389
+W042,Raj Naidu,5.2,Night,79.4,3.32,0.73,0,Needs Improvement,3.07,2.2,2.55,2.8,3.39,5,0.5,0.75,Quality Inspection,Completed,2,98.9,8.5,2024-08-24,3719
+W043,Priya Singh,0.8,Evening,92.3,2.24,0.98,0,Needs Improvement,3.95,2.69,2.9,4.2,4.97,1,0.82,0.91,Quality Inspection,Completed,3,77.7,1.7,2024-10-05,2884
+W044,Nandha Kumar,9.1,Night,88.7,2.08,0.98,0,Needs Improvement,3.44,3.63,2.93,2.75,2.0,2,0.75,0.88,EV Battery Pack Assembly,Under Review,3,89.8,16.3,2024-04-24,1042
+W045,Raj Iyer,3.0,Morning,50.2,4.89,0.83,4,In Testing,3.75,3.29,3.19,3.9,2.56,5,0.61,0.8,CKD Kit Packing / Kitting,Completed,2,99.4,7.5,2024-04-13,1253
+W046,Gowri Pillai,6.8,Evening,94.1,4.51,0.85,3,Certified,4.21,3.0,3.28,3.48,3.15,5,0.61,0.8,Painting & Finishing,Completed,5,81.2,10.5,2024-04-27,4201
+W047,Meena Singh,3.5,Morning,51.4,4.09,0.78,4,In Testing,3.67,4.19,4.4,3.72,4.8,3,0.67,0.84,CKD Kit Packing / Kitting,Under Review,4,70.5,2.2,2024-01-05,2083
+W048,Sanjay Menon,5.4,Morning,59.3,3.23,0.72,3,Certified,3.76,4.08,3.05,4.51,2.21,2,0.67,0.84,EV Battery Pack Assembly,Completed,3,77.3,0.1,2024-09-04,3710
+W049,Nandha Naidu,5.7,Night,97.2,2.52,0.73,4,Needs Improvement,3.69,2.5,3.4,3.21,2.03,3,0.59,0.8,EV Battery Pack Assembly,Completed,5,94.9,12.8,2024-04-30,3514
+W050,Karthik Naidu,2.3,Evening,88.5,2.47,0.87,4,In Testing,3.14,4.64,3.87,4.31,2.16,2,0.71,0.86,EV Battery Pack Assembly,Completed,2,95.9,10.3,2024-10-12,3334
+W051,Meena Iyer,9.7,Night,106.4,2.75,0.9,2,Needs Improvement,3.01,3.49,3.13,3.27,2.27,3,0.68,0.84,Engine Assembly,Completed,5,93.1,11.9,2024-05-28,4058
+W052,Vishnu Singh,7.9,Night,89.2,3.65,0.92,4,In Testing,4.7,4.22,4.51,3.06,2.11,5,0.61,0.8,CKD Kit Packing / Kitting,Under Review,1,73.4,15.9,2024-03-24,2540
+W053,Suresh Naidu,9.4,Evening,81.1,4.14,0.92,1,Needs Improvement,3.82,3.72,3.76,4.88,3.44,5,0.63,0.82,CKD Kit Packing / Kitting,Completed,3,93.9,12.9,2024-08-18,4538
+W054,Kumar Pillai,9.0,Morning,38.4,3.98,0.64,2,Certified,2.73,4.99,2.88,2.55,3.74,1,0.72,0.86,Quality Inspection,Completed,2,97.6,3.5,2024-10-14,2953
+W055,Shiva Patel,6.2,Morning,63.1,2.84,0.8,4,Certified,3.49,4.26,4.14,2.27,2.82,3,0.63,0.82,Quality Inspection,Under Review,4,88.0,7.2,2024-06-09,3825
+W056,Anand Shetty,9.3,Evening,53.9,4.86,0.62,0,Certified,2.99,4.12,3.58,4.31,3.19,4,0.56,0.78,Quality Inspection,Pending,2,98.2,18.1,2024-09-28,3392
+W057,Nandha Patel,1.3,Morning,52.0,4.21,0.82,1,In Testing,4.8,4.34,3.6,2.2,2.28,1,0.82,0.91,EV Battery Pack Assembly,Under Review,4,94.8,15.4,2024-02-07,1641
+W058,Suresh Kumar,2.4,Evening,117.6,3.66,0.78,1,Certified,2.02,2.43,3.44,4.51,3.01,3,0.66,0.83,CKD Kit Packing / Kitting,Pending,2,90.0,11.1,2024-08-13,3429
+W059,Raj Menon,0.9,Evening,65.4,3.84,0.96,1,In Testing,2.68,2.61,3.49,3.31,3.57,3,0.75,0.88,EV Battery Pack Assembly,Under Review,5,87.3,5.1,2024-05-21,4850
+W060,Raj Naidu,3.6,Night,110.3,3.26,0.74,2,Certified,3.1,4.14,4.3,4.75,4.2,1,0.74,0.87,Engine Assembly,Under Review,5,80.5,6.0,2024-10-18,1689
+W061,Deepa Kumar,4.2,Evening,86.8,2.74,0.65,4,Certified,3.46,3.48,2.31,4.16,2.01,5,0.43,0.72,Quality Inspection,Completed,5,74.8,14.6,2024-05-30,2276
+W062,Devi Pillai,3.1,Night,101.5,3.07,0.66,4,In Testing,4.55,4.26,3.0,3.83,3.4,3,0.57,0.78,EV Battery Pack Assembly,Pending,1,88.1,17.0,2024-04-23,2950
+W063,Shiva Naidu,8.4,Morning,75.2,4.27,0.9,0,In Testing,2.26,2.31,2.23,4.85,2.89,5,0.62,0.81,EV Battery Pack Assembly,Completed,4,79.5,13.4,2024-08-24,2079
+W064,Arun Naidu,3.9,Morning,81.9,2.04,0.85,0,Certified,4.42,3.61,4.26,3.19,4.56,1,0.75,0.88,Engine Assembly,Pending,5,96.0,16.2,2024-03-06,2486
+W065,Nandha Patel,3.2,Morning,74.3,2.35,0.64,1,In Testing,2.17,3.14,2.82,4.86,4.15,5,0.41,0.7,Painting & Finishing,Under Review,1,99.8,15.3,2024-09-14,1456
+W066,Raj Pillai,5.7,Morning,47.6,2.14,0.63,0,Certified,4.53,3.37,4.69,2.41,3.77,2,0.58,0.79,CKD Kit Packing / Kitting,Under Review,4,92.6,3.0,2024-09-05,1982
+W067,Karthik Kumar,1.8,Night,95.0,2.12,0.88,2,In Testing,2.15,3.81,3.58,3.45,2.83,4,0.58,0.79,Painting & Finishing,Pending,2,72.7,8.5,2024-06-28,3130
+W068,Ramesh Menon,8.1,Morning,55.3,4.57,0.63,4,Needs Improvement,2.05,3.51,4.4,2.81,4.73,3,0.62,0.81,Quality Inspection,Completed,1,78.7,3.1,2024-07-08,4976
+W069,Devi Kumar,1.2,Evening,32.2,4.11,0.93,1,Needs Improvement,4.09,3.62,4.94,3.62,2.14,4,0.69,0.84,EV Battery Pack Assembly,Completed,3,73.3,4.7,2024-06-02,2122
+W070,Kumar Menon,9.9,Evening,88.1,3.42,0.88,0,Needs Improvement,4.99,3.46,4.52,2.49,2.33,5,0.58,0.79,Engine Assembly,Completed,1,89.5,17.4,2024-07-14,1148
+W071,Suresh Rao,7.8,Evening,45.9,2.29,0.63,2,Needs Improvement,4.69,3.23,4.6,4.52,3.17,3,0.53,0.76,Engine Assembly,Completed,1,93.0,9.5,2024-09-18,2352
+W072,Anand Das,2.4,Night,114.6,3.47,0.63,2,Needs Improvement,3.73,4.32,3.22,4.54,2.37,5,0.45,0.72,CKD Kit Packing / Kitting,Under Review,4,97.8,10.7,2024-05-22,2179
+W073,Gowri Iyer,0.6,Morning,115.9,3.42,0.99,0,Certified,4.75,2.04,3.66,4.87,4.87,2,0.81,0.9,Painting & Finishing,Under Review,2,83.1,3.6,2024-04-10,1189
+W074,Ramesh Rao,8.2,Morning,112.3,2.52,0.75,4,Needs Improvement,2.02,3.8,2.76,2.46,4.39,1,0.72,0.86,CKD Kit Packing / Kitting,Under Review,3,97.0,6.2,2024-08-31,4565
+W075,Vishnu Pillai,7.2,Morning,63.3,3.3,0.75,0,Needs Improvement,4.93,3.7,2.59,3.87,2.78,3,0.63,0.82,EV Battery Pack Assembly,Under Review,5,96.3,4.6,2024-01-12,1882
+W076,Raj Iyer,7.4,Night,31.4,3.2,0.93,1,Needs Improvement,3.47,4.15,3.52,3.42,3.77,2,0.77,0.88,CKD Kit Packing / Kitting,Under Review,5,79.5,4.1,2024-08-26,3310
+W077,Anand Das,7.8,Evening,113.5,3.85,0.98,0,Needs Improvement,4.17,3.8,3.79,3.03,4.95,2,0.82,0.91,Engine Assembly,Completed,1,96.1,12.8,2024-02-18,4151
+W078,Anand Pillai,1.2,Evening,68.5,3.91,0.99,2,In Testing,4.46,4.48,3.02,3.05,4.65,3,0.77,0.88,Engine Assembly,Completed,4,81.3,5.1,2024-02-11,1399
+W079,Lakshmi Kumar,3.9,Morning,117.0,2.14,0.9,0,Certified,4.16,4.88,3.71,3.24,3.8,5,0.54,0.77,Quality Inspection,Completed,4,78.9,12.6,2024-06-14,3811
+W080,Saranya Kumar,1.6,Evening,116.7,3.12,0.75,4,Needs Improvement,3.61,3.03,4.66,4.11,4.71,2,0.68,0.84,Quality Inspection,Completed,5,89.5,1.2,2024-03-22,1608
+W081,Saranya Patel,8.7,Evening,106.8,3.88,0.63,3,Needs Improvement,3.43,2.68,3.67,3.79,4.97,4,0.53,0.76,EV Battery Pack Assembly,Under Review,3,79.9,2.8,2024-10-17,4331
+W082,Arun Naidu,6.4,Night,56.5,3.51,0.91,0,Needs Improvement,4.52,3.27,4.16,3.38,4.23,2,0.78,0.89,Painting & Finishing,Under Review,2,88.9,5.5,2024-06-06,2795
+W083,Shiva Kumar,3.6,Night,64.7,4.57,0.82,4,Certified,2.62,2.86,4.42,2.23,2.19,5,0.59,0.8,CKD Kit Packing / Kitting,Under Review,3,88.3,11.9,2024-08-03,2638
+W084,Anand Pillai,1.1,Night,106.6,3.98,0.77,4,In Testing,4.9,3.84,4.97,2.23,3.2,5,0.54,0.77,EV Battery Pack Assembly,Pending,2,86.9,13.5,2024-06-06,2575
+W085,Lakshmi Naidu,3.5,Night,58.5,2.49,0.96,2,Certified,4.13,4.74,3.81,2.01,4.51,4,0.64,0.82,Quality Inspection,Completed,5,81.4,8.9,2024-05-13,3832
+W086,Gowri Patel,3.6,Morning,45.3,2.21,0.64,4,In Testing,2.6,2.42,4.42,4.9,2.69,2,0.59,0.8,CKD Kit Packing / Kitting,Completed,2,86.5,8.9,2024-03-07,3148
+W087,Devi Rao,7.4,Night,80.1,3.93,0.8,4,Needs Improvement,4.21,2.3,4.89,2.02,4.49,5,0.56,0.78,Quality Inspection,Under Review,4,87.9,14.5,2024-01-07,2382
+W088,Priya Rao,6.6,Evening,114.3,2.08,0.6,4,Needs Improvement,3.59,2.77,4.83,2.31,2.36,3,0.5,0.75,CKD Kit Packing / Kitting,Completed,1,86.4,0.3,2024-01-14,2403
+W089,Arun Das,8.9,Morning,92.6,3.76,0.79,4,Certified,4.12,4.18,2.42,2.94,2.14,1,0.79,0.9,Painting & Finishing,Completed,1,83.3,6.8,2024-03-13,1819
+W090,Sanjay Kumar,5.0,Evening,81.3,4.82,0.62,1,Certified,4.3,3.78,3.22,4.42,3.15,1,0.74,0.87,EV Battery Pack Assembly,Under Review,5,70.4,16.4,2024-06-11,4292
+W091,Karthik Singh,1.6,Evening,38.7,3.73,0.65,1,In Testing,2.26,2.31,2.97,4.89,2.11,1,0.71,0.86,CKD Kit Packing / Kitting,Pending,4,87.6,12.1,2024-03-06,1819
+W092,Suresh Shetty,7.3,Evening,85.4,3.16,0.65,2,In Testing,3.52,4.76,2.26,4.37,4.87,2,0.63,0.82,Engine Assembly,Pending,3,75.1,6.7,2024-05-09,1419
+W093,Raj Kumar,7.7,Night,119.1,3.93,0.86,0,Certified,4.8,4.37,3.9,4.07,4.48,4,0.65,0.82,Engine Assembly,Pending,4,89.3,18.1,2024-07-24,1123
+W094,Vishnu Das,5.8,Night,42.6,3.37,0.9,4,In Testing,2.96,2.07,4.21,3.56,4.4,5,0.58,0.79,CKD Kit Packing / Kitting,Under Review,1,92.8,15.5,2024-10-02,1421
+W095,Saranya Singh,7.8,Morning,76.6,3.64,0.83,0,Certified,3.78,3.95,4.54,2.26,3.89,3,0.68,0.84,CKD Kit Packing / Kitting,Completed,1,85.0,5.3,2024-09-12,4302
+W096,Sanjay Pillai,5.2,Morning,109.0,4.82,0.98,0,In Testing,3.11,4.31,2.37,4.87,2.65,3,0.8,0.9,CKD Kit Packing / Kitting,Under Review,4,86.3,12.9,2024-09-22,4761
+W097,Raj Shetty,5.5,Night,96.7,3.16,0.75,2,Certified,3.36,3.12,4.63,4.28,3.55,2,0.68,0.84,Engine Assembly,Under Review,4,98.5,11.9,2024-01-25,4134
+W098,Deepa Pillai,4.6,Evening,92.7,4.88,0.71,4,Certified,3.65,2.21,3.93,3.92,3.79,1,0.79,0.9,Engine Assembly,Completed,1,95.4,8.0,2024-10-07,2508
+W099,Karthik Naidu,0.7,Morning,93.2,4.72,0.95,4,Certified,3.65,2.23,4.11,4.28,3.58,2,0.84,0.92,CKD Kit Packing / Kitting,Pending,3,97.4,7.3,2024-09-09,4699
+W100,Raj Das,1.5,Night,62.4,2.59,0.69,3,In Testing,2.61,2.31,4.73,4.17,2.78,4,0.51,0.76,Quality Inspection,Pending,5,94.4,6.9,2024-10-15,4774
